@@ -11,4 +11,4 @@
 - Added two buttons which had click listeners, each has a different function. One hides the entire list (display: none) and the other only hides those that have a line-through property
 - After each action (adding to list, clicking on list items that are done, clearing, etc) a function runs that checks how many list items there are that also haven't been striked through or had their displays hidden
   
-![alt text] (Capture.PNG)
+![alt text](Capture.PNG)
