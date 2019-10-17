@@ -2,21 +2,13 @@
 
 ### Goal: Build a Simple Todo List
 
-### How to submit your code for review:
+### How I did it
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+- Used HTML, CSS, and JS 
+- Created an input box as well as a submit button
+- Upon clicking the submit button, the input would be appended to an unordered list that was initially empty
+- Added an event listener to the ul which would work so that any element within it that's clicked will get a line through it
+- Added two buttons which had click listeners, each has a different function. One hides the entire list (display: none) and the other only hides those that have a line-through property
+- After each action (adding to list, clicking on list items that are done, clearing, etc) a function runs that checks how many list items there are that also haven't been striked through or had their displays hidden
+  
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
