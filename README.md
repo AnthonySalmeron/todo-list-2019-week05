@@ -1,7 +1,7 @@
 # ✅ Week05 Bootcamp2019 Project: Todo List
 
 ### Goal: Build a Simple Todo List
-
+Hosted here: https://practical-mcnulty-32b839.netlify.com/
 ### How I did it
 
 - Used HTML, CSS, and JS 
